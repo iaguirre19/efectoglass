@@ -15,7 +15,7 @@ body {
 }
 .container {
     background-color: var(--bg-white);
-    backdrop-filter: blur(2rem);
+    backdrop-filter: blur(2rem); /*opacidad*/
     border: var(--border);
     border-radius: var(--br);
     width: 70%;
